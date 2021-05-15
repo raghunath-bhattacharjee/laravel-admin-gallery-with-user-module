@@ -1,6 +1,6 @@
 ## About This Project
 
-Laraver Photo Galaery With User Module
+Laravel Photo Galaery With User Module
 
 ## Process to start
 
